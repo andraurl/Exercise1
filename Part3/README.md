@@ -17,7 +17,8 @@ When answering the questions, remember to use all the resources at your disposal
  
  ### Does creating concurrent programs make the programmer's life easier? Harder? Maybe both?
  (Come back to this after you have worked on part 4 of this exercise)
- > *Your answer here*
+ > *This is a classical give and take example. It becomes more tricy because you have to make some restrictions on premisions regarding reading and writing to memory. In the example that was codes it shows how terrible things can go if you do not know what is going on.
+Things become easier in the way that it comes more natural to program in this way, because this is what we observe in the real life.*
  
  ### What are the differences between processes, threads, green threads, and coroutines?
  > *Your answer here*
